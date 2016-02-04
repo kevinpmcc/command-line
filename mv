@@ -1,0 +1,5 @@
+mv command allows you to move files/folders
+
+its syntax is "mv original_location newlocation"
+
+by consequence it can be used to rename files/folders as well.
