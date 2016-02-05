@@ -1,0 +1,10 @@
+wc stands for word count
+
+the syntax is "wc filename"
+this will return number of lines, number of words and number of characters
+
+to specify which one you can use
+
+"wc -l filename" returns number of lines
+"wc -w filename" returns wordcount
+"wc -m filename" returns character
