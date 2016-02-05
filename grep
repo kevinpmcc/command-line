@@ -1,0 +1,8 @@
+grep is used for searching through text and grabbing what you're looking for.
+
+it takes regular expressions
+
+its syntax is "grep whatyourelookingfor wheretolook"
+
+example would be "grep academy MAKERS.txt"
+in this grep would return every line that academy appears on in MAKERS.txt
